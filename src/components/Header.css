@@ -1,0 +1,11 @@
+.header__container {
+  background-color: #373D48;
+  color: #fff;
+  padding: 1rem 0 1rem 1rem;
+}
+
+@media (min-width: 640px) {
+  .header__container {
+    padding: 1rem 0 1rem 3rem;
+  }
+}

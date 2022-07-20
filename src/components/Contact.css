@@ -1,0 +1,40 @@
+.contact__container {
+  padding: 1rem 0;
+}
+
+.contact__section_title {
+  padding-left: 1rem;
+  padding-bottom: 0.6rem;
+  color: #373D48;
+  text-decoration: underline;
+}
+
+.contact__phone {
+  margin-top: 0.4rem;
+  padding-left: 1rem;
+}
+
+.contact__phone a {
+  color: #373D48;
+  text-decoration: none;
+  font: bold 1rem sans-serif;  
+}
+
+.contact__phone a:hover {
+  color: blue;
+}
+
+.contact__mail {
+  margin-top: 0.4rem;
+  padding-left: 1rem;
+}
+
+.contact__mail a {
+  color: #373D48;
+  text-decoration: none;
+  font: bold 1rem sans-serif;
+}
+
+.contact__mail a:hover {
+  color: blue;
+}

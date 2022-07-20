@@ -1,0 +1,22 @@
+.skills__container {
+  padding: 1rem 0;
+}
+
+.skills__section_title {
+  padding-left: 1rem;
+  padding-bottom: 0.6rem;
+  color: #373D48;
+  text-decoration: underline;
+}
+
+.skill__name {
+  color: #343434;
+}
+
+.skills__list {
+  padding: 0.5rem 1rem;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  row-gap: 0.4rem;
+  font-weight: bold;
+}

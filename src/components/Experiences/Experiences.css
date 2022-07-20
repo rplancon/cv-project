@@ -1,0 +1,10 @@
+.experiences__container {
+  margin-top: 1rem;
+}
+
+.experiences__section_title {
+  padding-left: 1rem;
+  padding-bottom: 0.2rem;
+  color:#373D48;
+  text-decoration: underline;
+}

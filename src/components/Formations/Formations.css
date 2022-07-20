@@ -1,0 +1,14 @@
+.formations__container {
+  margin-top: 1rem;
+}
+
+.formations__section_title {
+  padding-left: 1rem;
+  padding-bottom: 0.2rem;
+  color:#373D48;
+  text-decoration: underline;
+}
+
+.formation__dates {
+  color:#373D48;
+}

@@ -1,0 +1,34 @@
+.experience__container {
+  width: 90%;
+  margin: 0.6rem auto 0 auto;
+}
+
+.experience__dates {
+  text-align: start;
+  color: #373D48;
+}
+
+.experience__job {
+  margin: 0.5rem auto 1rem;
+  padding-left: 2rem;
+  text-align: start;
+}
+
+.experience__job_title {
+  color: #373D48;
+}
+
+.experience__company {
+  margin-top: 0.4rem;
+  color: #343434;
+}
+
+.experience__missions {
+  margin-top: 0.4rem;
+  list-style: inside;
+  color: #343434;
+}
+
+.experience__mission {
+  margin-top: 0.2rem;
+}

@@ -1,0 +1,15 @@
+.skill__note {
+  text-align: center;
+}
+
+.fa-circle {
+  padding: 0 0.1rem;
+}
+
+.checked {
+  color: #373D48;
+}
+
+.unchecked {
+  color: #D5D6D6;
+}

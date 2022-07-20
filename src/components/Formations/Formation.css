@@ -1,0 +1,24 @@
+.formation__container {
+  width: 90%;
+  margin: 0.6rem auto 0 auto;
+}
+
+.formation__date {
+  text-align: start;
+  color: #373D48;
+}
+
+.formation__details {
+  padding-left: 2rem;
+  margin: 0.5rem auto 1rem;
+  text-align: start;
+}
+
+.formation__title {
+  color: #373D48;
+}
+
+.formation__school {
+  margin-top: 0.4rem;
+  color: #343434;
+}

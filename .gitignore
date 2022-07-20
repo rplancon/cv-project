@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+src/Dummy_data.tsx
+.firebase/hosting.YnVpbGQ.cache
+firebase.json

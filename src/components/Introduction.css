@@ -1,0 +1,12 @@
+.introduction__container {
+  margin: 1rem 0;
+  padding: 0 1rem;
+  font-size: 1.4rem;
+  color: #343434;
+}
+
+@media (min-width: 640px) {
+  .introduction__container {
+    padding: 0 5rem;
+  }
+}
